@@ -12,8 +12,8 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "pg": "~4.4.0",
-    "debug": "*"
+    "debug": "*",
+    "pg": "^6.1.2"
   },
   "devDependencies": {
     "connect": "*"
